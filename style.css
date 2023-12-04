@@ -21,8 +21,8 @@
     font-size: medium;
     padding: 6px 12px;
     border-radius: 15px;
-    background-color: aqua;
-    color: red;
+    background-color: red;
+    color: aqua;
     border: 3px solid rgb(30, 255, 0);
   }
   a {
